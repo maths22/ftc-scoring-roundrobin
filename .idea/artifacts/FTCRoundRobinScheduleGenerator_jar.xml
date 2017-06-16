@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact name="FTCRoundRobinScheduleGenerator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FTCRoundRobinScheduleGenerator_jar</output-path>
+    <root id="root">
+      <element id="archive" name="FTCRoundRobinScheduleGenerator.jar">
+        <element id="module-output" name="FTCRoundRobinScheduleGenerator" />
+      </element>
+      <element id="library" level="project" name="FTCScoring" />
+    </root>
+  </artifact>
+</component>
